@@ -1,9 +1,9 @@
-package com.projects.One.dtos;
+package com.projects.One.user;
 
 import lombok.Data;
 
 @Data
-public class User {
+public class UserRequest {
 
     /**
      * Username
